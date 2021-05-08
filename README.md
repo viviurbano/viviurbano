@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @viviurbano
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Javascript (ECMAScript 6), CSS, HTML5 (this path never ends)
+- 🌱 I’m learning Javascript (ECMAScript 6), CSS, HTML5 (this path never ends)
+- 🌱 I'm also learning React
 - 📫 How to reach me: https://www.linkedin.com/in/viviane-urbano-a940bb14/
 - 👀 See my projects: https://viviurbano.github.io/portfolio/
 - 📚 Read my Gists: https://gist.github.com/viviurbano/public
