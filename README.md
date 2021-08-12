@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @viviurbano
-- 👀 I’m interested in Front end development
-- 🌱 I’m learning Javascript (ECMAScript 6), CSS, HTML5 (this path never ends)
-- 🌱 I'm also learning React
+- 📕 I’m interested in Front end development
+- 📚 My technology stack is JavaScript, CSS, HTML, relational databases; bash script, Git and Github, RPT, JMeter, Apache Server, Apache Kafka.
 - 📫 How to reach me: https://www.linkedin.com/in/viviane-urbano-a940bb14/
-- 👀 See my projects: https://viviurbano.github.io/portfolio/
+- 👀 See my projects: https://github.com/viviurbano?tab=repositories
 - 📚 Read my Gists: https://gist.github.com/viviurbano/public
 <!---
 viviurbano/viviurbano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
