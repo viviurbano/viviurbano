@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viviurbano
-- 📕 I’m Front end developer
+- 📕 I’m Front-end Developer - MERN stack
 - 📫 Reach me at LinkedIn: https://www.linkedin.com/in/viviane-urbano-a940bb14/
 - 👀 My projects: https://github.com/viviurbano?tab=repositories
 - 📚 My posts at Dev.to: https://dev.to/viviurbano
