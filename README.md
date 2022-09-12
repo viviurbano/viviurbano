@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <strong>Viviane Urbano!👩‍💻</strong></h1>
+<h1 align="center">Hi there 👋, I'm <strong>Viviane Urbano! 👩🏻‍💻 </strong></h1>
 <h3 align="center"><b>Software Developer | MERN Stack</b></h3>
 <p align="center"> <img
 src=https://visitor-badge.glitch.me/badge?page_id=viviurbano.visitor-badge>
