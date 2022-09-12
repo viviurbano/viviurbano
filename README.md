@@ -5,8 +5,8 @@ src=https://visitor-badge.glitch.me/badge?page_id=viviurbano.visitor-badge>
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/viviane-urbano-a940bb14/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/viviane_urbano1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a><a href="https://dev.to/viviurbano" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/viviane-urbano-a940bb14/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/viviane_urbano1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a><a href="https://dev.to/viviurbano" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Blog"></a>
 </p>
 
 <p>I am a Software Developer with 4 years of experience in the Information Technology and Services area.</p>
